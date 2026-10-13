@@ -1,0 +1,31 @@
+{
+  "name": "chuhaijiang",
+  "displayName": "Chuhaijiang",
+  "version": "0.4.0",
+  "description": "Real-time TikTok Shop data, AI content workflows, and social media operations for cross-border commerce.",
+  "author": {
+    "name": "Chuhaijiang",
+    "email": "info@chuhaijiang.com"
+  },
+  "homepage": "https://developer.chuhaijiang.com",
+  "repository": "https://github.com/Haizhepi/chuhaijiang-mcp",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "tiktok-shop",
+    "ecommerce",
+    "product-research",
+    "creator-marketing",
+    "social-media",
+    "amazon",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "tiktok",
+    "ecommerce",
+    "social",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}

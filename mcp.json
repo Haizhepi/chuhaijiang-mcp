@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chuhaijiang": {
+      "type": "http",
+      "url": "https://mcp.gateway.chuhaijiang.com/mcp/oauth"
+    }
+  }
+}
